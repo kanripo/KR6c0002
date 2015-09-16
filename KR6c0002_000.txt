@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 放光般若經
+#+DATE: 2015-08-30 19:41:38.062626
+#+PROPERTY: JUAN 0
